@@ -8,7 +8,7 @@ Album.h
 
 Array.h: An abstract container for data with overloaded operators.   
 
-Controller.cc: Control object, controls the interaction of Songify with the View and it contains a playlist of the most currently searched for Songs.   
+Controller.cc: Control object, controls the interaction of Songify with the View and it contains a playlist of the most currently searched for Songs. This is used for testing purposes.    
 Controller.h    
 
 Criteria.cc: Entity object, used to match user searches to matching Song objects. There are an additional three derived classes arranged in a diamond hierarchy, A_Criteria, C_Criteria, and AorC_Criteria.   
