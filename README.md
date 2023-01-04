@@ -18,7 +18,7 @@ defs.h: File which contains preprocessor constants
  
 main.cc: instantiates a Controller object and calls the launch() function   
 
-Makefile: Compiles a single executeable "a4" using the command "make". It also contains a "clean" command which removes the "a4" executeable and any object files. This "clean" command is ran using the default "make clean".   
+Makefile: Compiles a single executeable "a4" using the command "make". It also contains a "clean" command which removes the "a4" executeable and any object files. This "clean" command is ran using the default "make clean" (in Linux).   
 
 MediaFactory.cc: Boundary object, used to create Songs, Albums, and Criteria objects. It separates application logic from the creation of Songs, Albums or Criteria types.   
 MediaFactory.h   
