@@ -1,5 +1,5 @@
 # Music_Application
-A program that facilitates the backend logic of a music application using C++!!
+A program that facilitates the backend logic of a music application using C++.
 
 
 ## List of source files:   
