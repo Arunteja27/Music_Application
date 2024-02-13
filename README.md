@@ -1,5 +1,5 @@
-# Music_Application
-A program that facilitates the backend logic of a music application using C++.
+# Vibe-ify
+A program that facilitates the backend logic of popular music player applications (*cough cough* **Spotify** ily ❤️ notice me 🥹) using C++.
 
 
 ## List of source files:   
