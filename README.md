@@ -1,4 +1,4 @@
-# Vibe-ify
+# Vibe-ify (Spotify backend logic emulator)
 A program that facilitates the backend logic of popular music player applications (*cough cough* **Spotify** ily ❤️ notice me 🥹) using C++.
 
 
